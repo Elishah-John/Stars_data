@@ -55,9 +55,10 @@ The analysis uses a dataset containing the following stellar properties:
 ## File Structure
 ```
 .
-├── README.md
-├── stars_analysis.ipynb    # Main analysis notebook
-└── requirements.txt        # Project dependencies
+├── README.md              # Project documentation
+├── requirements.txt       # Project dependencies
+├── stars_analysis.ipynb   # Main analysis notebook
+└── star_data.csv         # Dataset containing star properties
 ```
 
 ## Contributing
