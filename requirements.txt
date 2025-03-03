@@ -1,0 +1,12 @@
+﻿# Core Libraries
+numpy==2.2.1
+pandas==2.2.3
+
+# Visualization Libraries
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# Jupyter Environment
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+ipykernel==6.29.5
